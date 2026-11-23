@@ -1,0 +1,22 @@
+A-5470                 P1  surto_entrega_atrasada     reconhecido  Rebeca
+A-5471                 P2  entrega_atrasada           reconhecido  Nathalia
+A-5472                 P2  entrega_atrasada           reconhecido  Victor
+A-5473                 P2  entrega_atrasada           reconhecido  Victor
+A-5474                 P1  surto_entrega_vencida      reconhecido  Victor
+A-5475                 P2  entrega_vencida            reconhecido  Maria
+A-5476                 P2  entrega_vencida            reconhecido  Rebeca
+A-5477                 P2  entrega_vencida            reconhecido  Maria
+A-5478                 P1  surto_pedido_parado        reconhecido  Maria
+A-5479                 P2  pedido_parado              reconhecido  Maria
+A-5480                 P2  pedido_parado              reconhecido  Victor
+A-5481                 P2  pedido_parado              reconhecido  Maria
+A-5482                 P1  surto_entrega_parcial      reconhecido  Maria
+A-5483                 P3  entrega_parcial            reconhecido  Rebeca
+A-5484                 P3  entrega_parcial            reconhecido  Maria
+A-5485                 P3  entrega_parcial            reconhecido  Rebeca
+A-5486                 P1  surto_item_rejeitado       reconhecido  Victor
+A-5487                 P3  item_rejeitado             reconhecido  Nathalia
+A-5488                 P3  item_rejeitado             reconhecido  Nathalia
+A-5489                 P3  item_rejeitado             reconhecido  Rebeca
+20 caso(s) tratados.
+Gravado às 2026-11-23 00:33:05. O Painel já mostra MTTA, MTTR e prazos; o Apps Script manda os e-mails no próximo ciclo.

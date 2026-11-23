@@ -1,0 +1,7 @@
+Silver: Databricks
+Planilha de plantão conectada (aba Alertas).
+[WARN] pyarrow is not installed by default since databricks-sql-connector 4.0.0,any arrow specific api (e.g. fetchmany_arrow) and cloud fetch will be disabled.If you need these features, please run pip install pyarrow or pip install databricks-sql-connector[pyarrow] to install
+202 alertas nas regras; surto aberto para as regras acima de 5.
+[00:32:51] 207 alertas encontrados, 20 novos na planilha.
+202 alertas nas regras; surto aberto para as regras acima de 5.
+[00:33:52] 207 alertas encontrados, 15 novos na planilha.

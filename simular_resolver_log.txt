@@ -1,0 +1,23 @@
+A-5470                 P1  surto_entrega_atrasada     resolvido    Victor
+A-5471                 P2  entrega_atrasada           resolvido    Victor
+A-5472                 P2  entrega_atrasada           resolvido    Victor
+A-5473                 P2  entrega_atrasada           resolvido    Victor
+A-5474                 P1  surto_entrega_vencida      resolvido    Victor
+A-5475                 P2  entrega_vencida            resolvido    Victor
+A-5476                 P2  entrega_vencida            resolvido    Victor
+A-5477                 P2  entrega_vencida            resolvido    Victor
+A-5478                 P1  surto_pedido_parado        resolvido    Victor
+A-5479                 P2  pedido_parado              resolvido    Victor
+A-5480                 P2  pedido_parado              resolvido    Victor
+A-5481                 P2  pedido_parado              resolvido    Victor
+A-5482                 P1  surto_entrega_parcial      resolvido    Victor
+A-5483                 P3  entrega_parcial            resolvido    Victor
+A-5484                 P3  entrega_parcial            resolvido    Victor
+A-5485                 P3  entrega_parcial            resolvido    Victor
+A-5486                 P1  surto_item_rejeitado       resolvido    Victor
+A-5487                 P3  item_rejeitado             resolvido    Victor
+A-5488                 P3  item_rejeitado             resolvido    Victor
+A-5489                 P3  item_rejeitado             resolvido    Victor
+S-0002                 P1  monitor_parado             resolvido    Victor
+21 caso(s) tratados.
+Gravado às 2026-11-23 00:30:18. O Painel já mostra MTTA, MTTR e prazos; o Apps Script manda os e-mails no próximo ciclo.

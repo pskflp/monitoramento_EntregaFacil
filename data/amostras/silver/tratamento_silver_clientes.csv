@@ -1,0 +1,5 @@
+id_cliente,nome_cliente,pais_cliente,uf_cliente,cidade_cliente,cep_cliente,rua_numero_cliente
+100001,Cliente Fictício 1,BR,SP,São Paulo,01001000,Rua A 10
+100002,Cliente Fictício 2,BR,RJ,Rio de Janeiro,20010000,Rua B 20
+100003,Cliente Fictício 3,BR,MG,Belo Horizonte,30110000,Rua C 30
+100004,Cliente Fictício 4,BR,PR,Curitiba,80010000,Rua D 40

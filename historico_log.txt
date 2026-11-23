@@ -1,0 +1,20 @@
+[WARN] pyarrow is not installed by default since databricks-sql-connector 4.0.0,any arrow specific api (e.g. fetchmany_arrow) and cloud fetch will be disabled.If you need these features, please run pip install pyarrow or pip install databricks-sql-connector[pyarrow] to install
+Alertas na base: 5617 | reservados para a demo (2026-10-27:2026-10-29): 202 | histórico: 5469
+Surtos no histórico: 54
+Detecção de 2026-06-02 09:54:23 a 2026-11-10 11:43:09
+Resposta no prazo: 97.5% | Resolução no prazo: 96.5% | Escalados: 136
+  P1: 54 casos | resposta no prazo 98.1% | resolução no prazo 96.3%
+  P2: 3315 casos | resposta no prazo 97.5% | resolução no prazo 96.5%
+  P3: 2100 casos | resposta no prazo 97.5% | resolução no prazo 96.5%
+Equipe: N1 ['Victor', 'Nathalia', 'Rebeca', 'Maria'] | N2 ['Marcella']
+item_rejeitado            1878
+entrega_atrasada          1734
+entrega_vencida            850
+pedido_parado              731
+entrega_parcial            222
+surto_item_rejeitado        24
+surto_entrega_atrasada      20
+surto_entrega_vencida        5
+surto_pedido_parado          5
+Gravadas 5469 linhas na aba Alertas. Próximo ID do monitor: A-5470
+Aba Saude: 5031 ciclos em 7 dias (2 paradas, 1 falha) + P1 S-0001 de monitor parado.

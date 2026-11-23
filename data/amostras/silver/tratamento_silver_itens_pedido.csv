@@ -1,0 +1,11 @@
+id_pedido,id_item,id_material,qtd,cod_unidade_medida,unidade_medida,preco_liquido_unitario,valor_liquido_total,armazem_origem,cod_motivo_rejeicao,motivo_rejeicao
+5000001,10,MAT-0001,2,PC,Peça,100.00,200.00,CD01,null,null
+5000002,10,MAT-0002,1,PC,Peça,189.90,189.90,CD01,Z1,Cancelado / Recusado
+5000002,20,MAT-0003,1,PC,Peça,510.00,510.00,CD03,null,null
+5000003,10,MAT-0004,3,PC,Peça,100.00,300.00,CD01,null,null
+5000003,20,MAT-0005,1,PC,Peça,50.00,50.00,CD01,Z1,Cancelado / Recusado
+5000004,10,MAT-0006,1,PC,Peça,80.00,80.00,CD03,Z1,Cancelado / Recusado
+5000004,20,MAT-0007,2,PC,Peça,90.00,180.00,CD03,null,null
+5000005,10,MAT-0008,1,PC,Peça,99.90,99.90,CD01,null,null
+5000006,10,MAT-0009,1,PC,Peça,150.00,150.00,CD01,null,null
+5000009,10,MAT-0010,4,PC,Peça,100.00,400.00,CD03,null,null

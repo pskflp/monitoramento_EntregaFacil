@@ -1,0 +1,8 @@
+id_pedido,data_pedido,hora_pedido,tipo_venda,org_responsavel,id_cliente,valor_liquido_total,moeda,cod_situacao_pedido,situacao_pedido
+5000001,01-11-2026,10:00:00,ZEC1,BR01,100001,200.00,BRL,C,Concluído
+5000002,01-11-2026,11:00:00,ZEC1,BR01,100002,510.00,BRL,C,Concluído
+5000003,02-11-2026,09:30:00,ZEC2,BR01,100003,300.00,BRL,B,Parcialmente processado
+5000004,02-11-2026,15:10:00,ZEC1,BR01,100004,180.00,BRL,C,Concluído
+5000005,03-11-2026,08:45:00,ZEC1,BR01,100001,99.90,BRL,C,Concluído
+5000006,10-11-2026,12:00:00,ZEC2,BR01,100003,150.00,BRL,A,Não processado
+5000009,04-11-2026,16:20:00,ZEC1,BR01,100002,400.00,BRL,B,Parcialmente processado
